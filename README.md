@@ -7,6 +7,9 @@ Welcome to the Note-Taking App! This Python-based application allows users to ma
 * Persistent Storage: Notes are stored in MongoDB, ensuring your data is always accessible.
 * Easy Setup: Get started with a minimal Python and MongoDB setup.
 
+### 📷Working
+https://github.com/Anupama22here/Note-Taking-App-Using-MongoDB-and-Python/blob/main/app/Demo_video.mp4
+
 ###  🛠️ Technology Stack
 * Python: Core programming language for the app's backend.
 * MongoDB: NoSQL database for reliable note storage.
@@ -20,8 +23,8 @@ Before starting, make sure you have:
 
 ### 🚀 Getting Started
 1. Clone the Repository
-   -> git clone https://github.com/Anupama22here/Note-Taking-App-Using-MongoDB-and-Python.git
-   -> cd Note-Taking-App-Using-MongoDB-and-Python
+   ->  git clone https://github.com/Anupama22here/Note-Taking-App-Using-MongoDB-and-Python.git
+   cd Note-Taking-App-Using-MongoDB-and-Python
 
 
 3. Set Up MongoDB Connection
