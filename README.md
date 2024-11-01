@@ -46,5 +46,5 @@ Access it at http://localhost:5000. Otherwise, interact with the app through the
 This project is licensed under the MIT License.
 
 📞 Contact
-* Your Name: anupama0223@gmail.com
+* Mail: anupama0223@gmail.com
 * GitHub: Anupama22here
